@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MP157Test.dir/src/main.c.o -o build/bin/MP157Test  build/output/libutils.a 

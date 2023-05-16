@@ -1,0 +1,6 @@
+/home/wang/work/Mp157LearnProject/CMakeFiles/MP157Test.dir
+/home/wang/work/Mp157LearnProject/CMakeFiles/edit_cache.dir
+/home/wang/work/Mp157LearnProject/CMakeFiles/rebuild_cache.dir
+/home/wang/work/Mp157LearnProject/Module/utils/CMakeFiles/utils.dir
+/home/wang/work/Mp157LearnProject/Module/utils/CMakeFiles/edit_cache.dir
+/home/wang/work/Mp157LearnProject/Module/utils/CMakeFiles/rebuild_cache.dir
